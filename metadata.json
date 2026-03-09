@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Rede: Roteador & ONU",
+  "description": "Um simulador técnico de equipamentos de rede (ONU e Roteador) para testes de diagnóstico e treinamento de suporte.",
+  "requestFramePermissions": []
+}
